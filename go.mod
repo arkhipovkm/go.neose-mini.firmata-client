@@ -1,4 +1,4 @@
-module go.neose-mini.firmata-client
+module github.com/arkhipovkm/go.neose-mini.firmata-client
 
 go 1.14
 
