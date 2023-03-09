@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"go.neose-mini.firmata-client/neose_mini"
+	"github.com/arkhipovkm/go.neose-mini.firmata-client/neose_mini"
 )
 
 func main() {
